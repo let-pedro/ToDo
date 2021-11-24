@@ -14,10 +14,5 @@
 # 🔖 Sobre o Projeto
 
 
-O projeto Ecoleta foi desenvolvindo em um evento da Rocketseat o Next Level Week Together 01 (omnistack), no qual o aplicativo foi desenvolvido na Trilha de React Native. Para fins de estudos em desenvolvimento IOS nativo, utilizei a idéia do aplicativo efetuado o clone de suas interfaces é escrevendo suas funcionalidades na linguagem Swift.
+Esse projeto e um aplicativo de lista de tarefas, foi desenvolvido durante meus estudos de desenvolvimento IOS nativo, com a finalidade de estudar os conceitos de URLRequest, no qual foram utilizado os métodos HTTP para efetuar os CRUD.
 
-
-
-# 🖌 Layout
-
-O layout do aplicativo e disponibilizado pela Rocketseat no evento é pode ser acessado pelo <a href="https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1">Figma</a>.
